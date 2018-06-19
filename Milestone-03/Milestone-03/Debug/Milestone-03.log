@@ -1,0 +1,13 @@
+﻿  Refactoring.cpp
+c:\users\jackm\documents\programs\cs 2450\milestone 3\milestone-03\milestone-03\milestone-03\refactoring.cpp(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\jackm\documents\programs\cs 2450\milestone 3\milestone-03\milestone-03\milestone-03\refactoring.cpp(197): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+c:\users\jackm\documents\programs\cs 2450\milestone 3\milestone-03\milestone-03\milestone-03\refactoring.cpp(198): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+c:\users\jackm\documents\programs\cs 2450\milestone 3\milestone-03\milestone-03\milestone-03\refactoring.cpp(199): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+c:\users\jackm\documents\programs\cs 2450\milestone 3\milestone-03\milestone-03\milestone-03\refactoring.cpp(204): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+c:\users\jackm\documents\programs\cs 2450\milestone 3\milestone-03\milestone-03\milestone-03\refactoring.cpp(231): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+c:\users\jackm\documents\programs\cs 2450\milestone 3\milestone-03\milestone-03\milestone-03\refactoring.cpp(235): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+c:\users\jackm\documents\programs\cs 2450\milestone 3\milestone-03\milestone-03\milestone-03\refactoring.cpp(241): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+c:\users\jackm\documents\programs\cs 2450\milestone 3\milestone-03\milestone-03\milestone-03\refactoring.cpp(280): warning C4018: '<': signed/unsigned mismatch
+  stdafx.cpp
+  Generating Code...
+  Milestone-03.vcxproj -> C:\Users\jackm\Documents\Programs\CS 2450\Milestone 3\Milestone-03\Milestone-03\Debug\Milestone-03.exe
